@@ -1,0 +1,15 @@
+{
+    "day1":{
+        "concepts_covered": ["python installation", "python basic data types"]
+    },
+    "day2":{
+        "concepts_covered": ["conditions & loops", "functions"]
+    },
+	"day3": {
+        "concepts_covered": ["classes", "file operations", "important modules"]
+		},
+	"day4": {
+        "concepts_covered": ["pandas usage", "numpy usage", "matplotlib usage", "plotly usage"]
+    },
+    "day5": ["assessement", "feedback"]
+}
