@@ -17,6 +17,7 @@ The main objective of this repository is to replicate training materials and rel
 <!-- * [License](#license) -->
 
 ## **General Information**  
+The repository in centered around how it can help an individual (developer/researcher/data enthusiast) to pick up on learning python and implement the same for data related activities.
 
 ## **Technologies Used**  
 
