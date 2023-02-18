@@ -46,6 +46,10 @@ The repository in centered around how it can help an individual (developer/resea
 Project is: *completed*  
 
 ## **References**  
+- Pandas Official Website. 
+- Numpy Official Website. 
+- Matplotlib Official Website. 
+- Plotly Official Website. 
 
 ## **Acknowledgements**  
 
